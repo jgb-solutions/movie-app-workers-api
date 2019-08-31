@@ -1,0 +1,6 @@
+name = "movie-api-app"
+type = "webpack"
+zone_id = "yourZoneId"
+private = false
+account_id = "yourAccountId"
+route = "yourDomain/*"
